@@ -30,5 +30,5 @@ completed : BooleanField
 
 ## Testing
 ```
-* [Testing by using Postman](http://www.youtube.com)
+[Testing by using Postman](http://www.youtube.com)
 ```
