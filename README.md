@@ -28,5 +28,3 @@ date_created : DateTimeField
 completed : BooleanField
 ```
 
-## Testing
-[Testing by using Postman](https://www.youtube.com/watch?v=3dUVnhPjndI)
